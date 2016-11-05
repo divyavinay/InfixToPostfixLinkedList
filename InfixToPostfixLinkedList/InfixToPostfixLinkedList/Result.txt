@@ -1,0 +1,6 @@
+Infix :((A+B)*(C-D)+E)/(F+G)
+Postfix:AB+CD-*E+FG+/
+
+Infix :A+B*C
+Postfix:ABC*+
+
